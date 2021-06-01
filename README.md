@@ -22,3 +22,4 @@ ionic plugin add [cordova-plugin-name]
 
 ionic serve
 
+The tool used to build the app is ionic creator. 
